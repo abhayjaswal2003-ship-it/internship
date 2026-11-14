@@ -1,0 +1,13 @@
+{
+    "scan_interval": 30,
+    "ping_timeout": 1.5,
+    "max_threads": 50,
+    "preferred_interface": "",
+    "theme": "Dark Mode",
+    "notifications_enabled": true,
+    "notify_on_new_device": true,
+    "notify_on_disconnect": true,
+    "export_directory": "C:\\Users\\ASUS\\OneDrive\\Desktop\\New folder\\antigravity\\data\\exports",
+    "port_scan_timeout": 1.0,
+    "port_scan_delay": 0.05
+}
